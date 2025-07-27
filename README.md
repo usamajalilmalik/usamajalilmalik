@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Usama Jalil Malik</h1>
-<h3 align="center">A passionate Game Developer from Pakistan</h3>
+<h3 align="center">⚔️ A passionate Game Developer from Pakistan — Building Worlds, One Pixel at a Time ⚔️</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=visitors&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=usamajalilmalik&label=visitors&color=0e75b6&style=flat" alt="usamajalilmalik" />
 </p>
 
 ---
@@ -17,13 +17,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamajalilmalik@prefabsstudio.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/P28aaRL)
 
-
 ---
+
 ## 🚀 Published Projects
 
-Here are some of the games I’ve worked on and published on the App Store and Google Play:
+Here are some of the games I’ve developed and published on Google Play and App Store:
 
-### 🎮 2d Puzzle & Adventure
+### 🎮 2D Puzzle & Adventure
 
 | Game | Platforms |
 |------|-----------|
@@ -72,7 +72,10 @@ Here are some of the games I’ve worked on and published on the App Store and G
 | **Draw Parking Master** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.PrefabStudios.DrawParkingMaster) |
 | **Real Advance Car Parking Game** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.PrefabStudios.RealAdvanceCarParkingGame) |
 
-### 🛠️ Languages and Tools:
+---
+
+## 🛠️ Languages and Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -87,26 +90,23 @@ Here are some of the games I’ve worked on and published on the App Store and G
 
 ---
 
-### 📊 GitHub Stats:
+## 📈 GitHub Stats & Streak
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usamajalilmalik&show_icons=true&theme=radical" alt="Usama's GitHub stats"/>
-</p>
-
----
-
-### 🔥 Streak Stats:
-<p align="center">
+  <br />
   <img src="https://streak-stats.demolab.com?user=usamajalilmalik&theme=radical"/>
 </p>
 
 ---
 
-### 📫 About Me:
+## 📫 About Me
 
-- 🔭 I’m currently working on **Unity games with Firebase**
-- 🌱 I’m expert in **multiplayer, AR, and monetization**
-- 💬 Ask me about **Unity, Firebase, WebGL, and UI/UX**
-- ⚡ Fun fact: I can build full games solo—from design to backend
+- 🔭 Currently working on **Unity games with Firebase**
+- 👾 Specialized in **Multiplayer, AR, and Monetization**
+- 🎨 Skilled in **UI/UX, Asset Optimization, and Game Design**
+- 💬 Ask me about **Unity, WebGL, Firebase, and Full Game Development**
+- ⚡ Fun fact: I build complete games solo — from design to backend to publishing!
 
 ---
 
