@@ -49,7 +49,7 @@
 ### 📫 About Me:
 
 - 🔭 I’m currently working on **Unity games with Firebase**
-- 🌱 I’m learning **multiplayer, AR, and monetization**
+- 🌱 I’m expert in **multiplayer, AR, and monetization**
 - 💬 Ask me about **Unity, Firebase, WebGL, and UI/UX**
 - ⚡ Fun fact: I can build full games solo—from design to backend
 
