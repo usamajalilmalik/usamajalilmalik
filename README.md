@@ -95,6 +95,13 @@ Here are some of the games I’ve developed and published on Google Play and App
 
 
 ---
+### ✅ Upwork Achievements
+- 🧑‍💻 **25 Jobs Completed**
+- ⭐ **Top Rated Freelancer**
+- 🌟 **5.0 Star Rating**
+- 💯 **100% Job Success Score (JSS)**  
+[🔗 View My Upwork Profile](https://www.upwork.com/freelancers/usamajalilmalik)
+
 
 ## 📈 GitHub Stats & Streak
 
