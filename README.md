@@ -18,20 +18,58 @@
 </p>
 
 ---
-## 🎮 Published Games
+## 🚀 Published Projects
 
-<table>
-  <tr>
-    <td><strong>Mage Breaker: Brick Hero</strong><br>
-      <a href="https://play.google.com/store/apps/details?id=com.prefabs.magebreaker">
-        <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="150"/>
-      </a>
-      <a href="https://apps.apple.com/pk/app/mage-breaker-brick-hero/id6499148932">
-        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="135"/>
-      </a>
-    </td>
-  </tr>
-</table>
+Here are some of the games I’ve worked on and published on the App Store and Google Play:
+
+### 🎮 Action & Adventure
+
+| Game | Platforms |
+|------|-----------|
+| **Action Block Universe** | [![App Store](https://img.shields.io/badge/iOS-App%20Store-black?logo=apple&style=for-the-badge)](https://apps.apple.com/pk/app/action-block-universe/id6748415559) [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.DreamGenesys.ActionBlockUniverse&hl=en) |
+| **Flying Car Monster Run** | [![App Store](https://img.shields.io/badge/iOS-App%20Store-black?logo=apple&style=for-the-badge)](https://apps.apple.com/pk/app/flying-car-monster-run/id6654929169) [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=games.totallyrad.flyingcar&hl=en) |
+
+---
+
+### 🧠 Educational & Fun
+
+| Game | Platform |
+|------|----------|
+| **MEDeD Games** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.natasha.mededgames&pcampaignid=web_share) |
+
+---
+
+### 🐂 Animal Simulators
+
+| Game | Platform |
+|------|----------|
+| **Angry Bull: Cow Games** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.coe.angrybull.cowgames&hl=en) |
+| **Lovely Angry Bull Attack 3D** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.prefabstudios.LovelyAngryBullAttack3D&hl=en) |
+| **Angry Bull Rally Rush 2022** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.PrefabStudios.AngryBullRallyRush2022) |
+
+---
+
+### 🐉🐀🐝 Animal Adventure Series
+
+| Game | Platform |
+|------|----------|
+| **Flying Dragon Simulation** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.PrefabStudios.FlyingDragonSimulationGames&hl=en) |
+| **Rat Simulator Mouse Games 2k22** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.PrefabStudios.RatSimulatorMouseGames2k22) |
+| **Man vs Bee** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.PrefabStudios.ManvsBee) |
+| **Anaconda Simulation** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.PrefabStudios.AnacondaSimulation) |
+| **Skunk Simulator: Raccoon Games** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.PrefabStudios.SkunkSimulatorRaccoonGames) |
+| **Wild Wolf Tales: RPG Simulator** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.PrefabStudios.WildWolfTalesRPGSimulator) |
+| **Werewolf: The Apocalypse** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.PrefabStudios.WerewolfTheApocalypse) |
+
+---
+
+### 🚗 Vehicle & Parking Games
+
+| Game | Platform |
+|------|----------|
+| **Yellow Cab Taxi Driving School** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.coe.yellowcab.taxigames.drivingschool&hl=en) |
+| **Draw Parking Master** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.PrefabStudios.DrawParkingMaster) |
+| **Real Advance Car Parking Game** | [![Play Store](https://img.shields.io/badge/Android-Play%20Store-green?logo=google-play&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.PrefabStudios.RealAdvanceCarParkingGame) |
 
 ### 🛠️ Languages and Tools:
 <p align="left">
