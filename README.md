@@ -102,16 +102,23 @@ Here are some of the games I’ve developed and published on Google Play and App
 ![Rating](https://img.shields.io/badge/Rating-5.0★-ff69b4?style=flat-square)
 ![JSS](https://img.shields.io/badge/JSS-100%25-brightgreen?style=flat-square)
 
+## 📲 Published Games
+
+![Downloads](https://img.shields.io/badge/Game_Downloads-1M+-blueviolet?style=flat-square)
+![Unity](https://img.shields.io/badge/Engine-Unity-000000?logo=unity&style=flat-square)
+![Cross Platform](https://img.shields.io/badge/Platform-Android/iOS-yellow?style=flat-square)
+
+
 ## 📈 GitHub Stats & Streak
 
 <p align="center">
-  ![Fake GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamajalilmalik&show_icons=true&hide_title=true&count_private=true&hide=contribs&theme=tokyonight&custom_title=My+Development+Activity)
+  <img src="https://github-readme-stats.vercel.app/api?username=usamajalilmalik&show_icons=true&hide_title=true&count_private=true&hide=contribs&theme=tokyonight&custom_title=My+Development+Activity" alt="GitHub Stats" />
 
   <br />
-  <img src="https://streak-stats.demolab.com?user=usamajalilmalik&theme=radical"/>
+
+  <img src="https://streak-stats.demolab.com?user=usamajalilmalik&theme=radical" alt="GitHub Streak" />
 </p>
 
----
 
 ## 📫 About Me
 
