@@ -105,7 +105,8 @@ Here are some of the games I’ve developed and published on Google Play and App
 ## 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamajalilmalik&show_icons=true&theme=radical" alt="Usama's GitHub stats"/>
+  ![Fake GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamajalilmalik&show_icons=true&hide_title=true&count_private=true&hide=contribs&theme=tokyonight&custom_title=My+Development+Activity)
+
   <br />
   <img src="https://streak-stats.demolab.com?user=usamajalilmalik&theme=radical"/>
 </p>
