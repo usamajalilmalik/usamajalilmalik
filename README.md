@@ -7,15 +7,16 @@
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-  <a href="https://github.com/usamajalilmalik" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/usama-jalil-malik-b31b38220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/+923150881459" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="mailto:usamajalilmalik@prefabsstudio.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/usamajalilmalik" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-  <a href="https://www.fiverr.com/s/P28aaRL" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
-</p>
+## 🌐 Connect with Me
+
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/usamajalilmalik)
+[![Website](https://img.shields.io/badge/Website-prefabsstudio.com-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.prefabsstudio.com/)
+[![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usamajalilmalik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-jalil-malik-b31b38220/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923150881459)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamajalilmalik@prefabsstudio.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/P28aaRL)
+
 
 ---
 ## 🚀 Published Projects
