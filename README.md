@@ -95,6 +95,12 @@ Here are some of the games I’ve developed and published on Google Play and App
 
 
 ---
+## 🚀 Career Highlights
+
+![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-brightgreen?logo=upwork&style=flat-square)
+![Jobs Completed](https://img.shields.io/badge/Jobs_Completed-25-blue?style=flat-square)
+![Rating](https://img.shields.io/badge/Rating-5.0★-ff69b4?style=flat-square)
+![JSS](https://img.shields.io/badge/JSS-100%25-brightgreen?style=flat-square)
 
 ## 📈 GitHub Stats & Streak
 
