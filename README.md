@@ -22,7 +22,7 @@
 
 Here are some of the games I’ve worked on and published on the App Store and Google Play:
 
-### 🎮 Action & Adventure
+### 🎮 2d Puzzle & Adventure
 
 | Game | Platforms |
 |------|-----------|
