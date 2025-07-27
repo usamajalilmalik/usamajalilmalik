@@ -18,6 +18,20 @@
 </p>
 
 ---
+## 🎮 Published Games
+
+<table>
+  <tr>
+    <td><strong>Mage Breaker: Brick Hero</strong><br>
+      <a href="https://play.google.com/store/apps/details?id=com.prefabs.magebreaker">
+        <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="150"/>
+      </a>
+      <a href="https://apps.apple.com/pk/app/mage-breaker-brick-hero/id6499148932">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="135"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Languages and Tools:
 <p align="left">
